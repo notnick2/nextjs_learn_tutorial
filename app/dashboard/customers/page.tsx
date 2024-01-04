@@ -1,5 +1,4 @@
 export default function Customers() {
-    return <p>Dashboard customers
-      fsdjfg
+    return <p>Dashboard Customers
     </p>;
   }
